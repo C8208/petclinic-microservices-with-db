@@ -115,4 +115,8 @@ services:
       MYSQL_DATABASE: petclinic
     mem_limit: 256M
     ports:
+<<<<<<< HEAD
     - 3306:3306
+=======
+    - 3306:3306
+>>>>>>> feature/msp-8
