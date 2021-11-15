@@ -13,3 +13,5 @@
     register: output
 
   - debug: msg="{{ output.stdout }}"
+
+  # yeniden düzenlendi.
