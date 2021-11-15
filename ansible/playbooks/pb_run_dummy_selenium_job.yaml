@@ -8,3 +8,5 @@
   - name: show results
     debug: msg="{{ item.stdout }}"
     with_items: "{{ output.results }}"
+
+# modified
