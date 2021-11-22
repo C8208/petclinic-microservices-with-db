@@ -13,7 +13,7 @@ metadata:
   name: api-gateway
 spec:
   rules:
-    - host: ertansahin2000.com
+    - host: petclinic.ertansahin2000.com
       http:
         paths:
           - backend:
